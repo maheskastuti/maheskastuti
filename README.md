@@ -90,11 +90,13 @@ Machine learning project focused on predicting customer churn and visualizing cu
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Activity
 
-![Stuti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maheskastuti\&show_icons=true\&theme=default)
+💻 Building projects in Python, SQL, Power BI and Data Analytics
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maheskastuti\&layout=compact\&theme=default)
+📚 Currently learning Machine Learning, Statistics and Advanced SQL
+
+🚀 Continuously improving through hands-on projects and practice
 
 ---
 
