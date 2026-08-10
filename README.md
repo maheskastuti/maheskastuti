@@ -10,15 +10,19 @@
 
 ## 🚀 About Me
 
-I'm a student at NIT Durgapur with a growing interest in turning data into meaningful insights and building practical data-driven solutions.
+🎓 I'm pursuing an **Integrated M.Sc. in Chemistry at NIT Durgapur** and building my skills in **Data Analytics, Machine Learning and Business Intelligence**.
 
-I'm currently developing my skills in:
+📊 I enjoy working with data to discover patterns, generate insights and build practical solutions.
 
-* 📊 Data Analytics
-* 🤖 Machine Learning
-* 🗄️ SQL & Database Management
-* 📈 Data Visualization & Business Intelligence
-* 🐍 Python for Data Analysis
+💻 My current focus is on:
+
+* Data analysis using **Python, Pandas & NumPy**
+* Database analysis using **SQL & MySQL**
+* Data visualization using **Power BI & Excel**
+* Machine Learning using **Scikit-Learn**
+
+🚀 I'm actively building projects and strengthening my skills for opportunities in **Data Analytics and Data Science**.
+
 
 ---
 
@@ -59,42 +63,87 @@ I'm currently developing my skills in:
 
 ### 💼 Placement Management System
 
-**Python | MySQL**
+**Python | MySQL | SQL**
 
-A database-driven placement management system implementing CRUD operations, student/company/job management, eligibility checking and application tracking.
+A database-driven placement management system designed to manage students, companies, jobs and applications.
+
+**Key Features:**
+
+* CRUD operations across relational database tables
+* Student, company and job management
+* CGPA-based eligibility checking
+* Application tracking with status management
+* SQL JOINs for placement and application reports
 
 🔗 [View Project](https://github.com/maheskastuti/placement-management-system)
 
 ---
 
-### 📊 Retail Sales Analytics
+### 📊 Retail Sales & Customer Analytics
 
 **SQL | Excel**
 
-Analyzed sales and customer data to identify revenue trends, customer behavior and category-wise performance using SQL queries and Excel dashboards.
+A data analytics project focused on analyzing sales performance and customer behavior to generate meaningful business insights.
+
+**Key Analysis:**
+
+* Revenue and sales trend analysis
+* Customer behavior analysis
+* High-value customer identification
+* Category-wise product performance
+* Excel dashboard using Pivot Tables and Lookup functions
 
 🔗 [View Project](https://github.com/maheskastuti/retail-sales-analytics)
 
 ---
 
-### 🤖 Customer Churn Prediction
+### 🤖 Customer Churn Prediction & Analytics Dashboard
 
 **Python | Pandas | NumPy | Scikit-Learn | Power BI**
 
-Machine learning project focused on predicting customer churn and visualizing customer risk and business insights.
+A machine learning project that predicts customer churn and combines model outputs with an interactive Power BI dashboard to identify customers at higher risk of leaving.
+
+**Key Features:**
+
+* Data cleaning and exploratory data analysis using Pandas and NumPy
+* Feature preparation for machine learning
+* Logistic Regression model for churn prediction
+* Model evaluation using classification metrics
+* Interactive Power BI dashboard for customer and churn analysis
+* DAX measures and visualizations for business insights
 
 🔗 [View Project](https://github.com/maheskastuti/customer-churn-prediction)
 
 ---
 
+### 🗄️ SQL Sales Database Analysis
+
+**SQL | MySQL**
+
+A relational database project focused on analyzing sales, customers, products and orders using SQL.
+
+**Key Analysis:**
+
+* Multi-table JOIN operations
+* Aggregations and analytical queries
+* Customer and product analysis
+* Revenue trends
+* Category-wise sales performance
+
+🔗 [View Project](https://github.com/maheskastuti/sales-performance-analysis)
+
+
+---
+
 ## 📚 Currently Learning
 
-* Machine Learning
-* Statistics for Data Science
-* Advanced SQL
-* Data Visualization
-* Power BI & DAX
-* Exploratory Data Analysis
+* 🤖 Machine Learning & Model Evaluation
+* 📊 Statistics for Data Science
+* 🗄️ Advanced SQL
+* 📈 Power BI & DAX
+* 🐍 Python for Data Analysis
+* 🔍 Exploratory Data Analysis
+
 
 ---
 
